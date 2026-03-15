@@ -1,3 +1,5 @@
 ## Hi there 👋
 
 Python을 이용한 모델 기술과 알고리즘을 중심으로 공부하고 있는 개발 학습자입니다.
+
+[magnolia0713/opening_0718](https://solved.ac/profile/dearmagnolia0713)
